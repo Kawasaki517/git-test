@@ -44,4 +44,9 @@ public class Person {
     public void master(){
         System.out.println("Master commit");
     }
+    
+    
+    public void pull(){
+        System.out.println("pull commit");
+    }
 }
