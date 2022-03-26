@@ -40,4 +40,8 @@ public class Person {
     public void hotFIx(){
         System.out.println("Using Hot-Fix");
     }
+
+    public void master(){
+        System.out.println("Master commit");
+    }
 }
