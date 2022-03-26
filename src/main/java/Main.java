@@ -6,5 +6,7 @@ public class Main {
         System.out.println("hot-fix commit");
 
         System.out.println("master commit");
+
+        System.out.println("hot-fix2 commit");
     }
 }
