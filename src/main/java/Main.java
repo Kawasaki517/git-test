@@ -9,5 +9,8 @@ public class Main {
 
         System.out.println("hot-fix2 commit");
         System.out.println("push test");
+  
+        System.out.println("pull commit");
+    
     }
 }
